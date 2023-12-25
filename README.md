@@ -1,5 +1,6 @@
 # 一些技术总结
 
+```
 .
 ├── JavaScript
 │   ├── 1.基础知识
@@ -140,3 +141,4 @@
     ├── 28.webpack-obfuscator.md
     ├── 29.HashedModuleIdsPlugin.md
     └── 30.模板-plugin.md
+```
