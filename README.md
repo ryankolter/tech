@@ -1,5 +1,7 @@
 # 一些技术总结
 
+使用[Whalesnote](https://github.com/ryankolter/whalesnote)创作并批量导出
+
 ```
 .
 ├── JavaScript
