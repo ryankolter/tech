@@ -1,10 +1,14 @@
 # 一些技术总结
 
-读过的好书 —— Books
-前端技术 —— JavaScript、HTML、CSS、webpack、babel
-后端技术 —— Linux、Nodejs、PostgreSQL、Redis、Nginx、Docker、ES
-系统设计 —— SystemDesign
-工具 —— Git、Vim
+1. 读过的好书 —— Books
+
+2. 前端技术 —— JavaScript、HTML、CSS、webpack、babel
+
+3. 后端技术 —— Linux、Nodejs、PostgreSQL、Redis、Nginx、Docker、ES
+
+4. 系统设计 —— SystemDesign
+
+5. 工具 —— Git、Vim
 
 ```
 .
